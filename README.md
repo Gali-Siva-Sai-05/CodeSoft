@@ -20,7 +20,7 @@ Before running the program, make sure you have the following Python packages ins
 You can install these packages using `pip`:
 
 ```bash
-pip install pandas numpy nltk scikit-learn
+- pip install pandas numpy nltk scikit-learn
 
 1.Data Preparation
 
